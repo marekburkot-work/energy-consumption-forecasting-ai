@@ -1,5 +1,3 @@
-~~# ⚡ Krótkoterminowa Prognoza Zapotrzebowania (STLF): Pokonanie ENTSO-E za pomocą Gradient Boosting
-
 [![Python](https://img.shields.io/badge/Python-3.13%2B-blue?logo=python&logoColor=white)](#)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-LightGBM%20%7C%20XGBoost-orange)](#)
 [![Domain](https://img.shields.io/badge/Domain-Sektor%20Energetyczny%20(KSE)-green)](#)
