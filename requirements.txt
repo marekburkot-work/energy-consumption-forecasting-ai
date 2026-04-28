@@ -1,0 +1,12 @@
+pandas~=3.0.0
+numpy~=2.4.2
+plotly~=6.5.2
+scikit-learn~=1.8.0
+xgboost~=3.2.0
+lightgbm~=4.6.0
+tensorflow~=2.21.0
+holidays~=0.93
+torch~=2.11.0
+chronos-forecasting~=2.2.2
+keras-tuner~=1.4.8
+tensorboard~=2.20.0
