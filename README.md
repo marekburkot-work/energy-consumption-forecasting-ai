@@ -25,7 +25,7 @@ W celu uniknięcia zjawiska wycieku danych zastosowano rygorystyczną, chronolog
 | *XGBoost*                         | 1.96% | 1599.07 | 1109.28 |
 | *Random Forest*                   | 2.15% | 1736.33 | 1223.36 |
 | *LSTM*                            | 2.41% | 2351.24 | 1353.48 |
-| *Decision Tree*                   | 2.85% | 2488.29 | 1989.38 |
+| *Decision Tree*                   | 2.85% | 2353.53 | 1546.38 |
 | **ENTSO-E (Oficjalny Benchmark)** | **3.52%** | **2488.29** | **1989.40** |
 | *GRU*                             | 5.36% | 3932.09 | 2814.48 |
 | *Amazon Chronos T5*               | 8.65% | 4687.02 | 4163.71 |
