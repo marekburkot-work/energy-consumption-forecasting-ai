@@ -41,10 +41,13 @@ Sukces modeli drzewiastych nad Głębokim Uczeniem (LSTM) oraz potężnymi model
 Zamiast standardowych wykresów wartości absolutnych (których szeroka skala nie pozwala na celne pokazanie błędó predykcji), ewaluację modeli przeprowadzono przy użyciu **Wykresów Odchyleń (Residuals)** w kilku oknach czasowych.
 
 * `Scenariusz A:`
+
 ![Wykres odchyleń - Boże Narodzenie](images/scenarioA_2.png)
 * `Scenariusz B:`
+
 ![Wykres odchyleń - Majówka](images/scenarioB.png)
-* `Scenariusz C:` 
+* `Scenariusz C:`
+
 ![Wykres odchyleń -](images/scenarioC.png)
 
 ## 🛠️ Stos technologiczny
