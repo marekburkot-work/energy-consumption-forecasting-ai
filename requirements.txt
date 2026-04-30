@@ -10,3 +10,5 @@ torch~=2.11.0
 chronos-forecasting~=2.2.2
 keras-tuner~=1.4.8
 tensorboard~=2.20.0
+pyarrow~=24.0.0
+fastparquet~=2026.3.0
